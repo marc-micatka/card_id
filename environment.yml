@@ -1,0 +1,14 @@
+name: card_id
+dependencies:
+- python=3.6
+- pickle
+- os
+- glob
+- imgaug
+- shapely
+- matplotlib=3.0.3
+- numpy=1.16.3
+- tqdm
+- cv2
+
+
